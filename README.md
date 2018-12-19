@@ -1,13 +1,13 @@
-  ### PowerShell Base64 Encoding & Decoding 
+  ## PowerShell Base64 Encoding & Decoding 
   
   
-  Kullanımı hakkında;
+  #### Kullanımı hakkında;
   
   Bir veriyi base64 ile kodlamak için 1,
   
   base64 ile kodlanmış veriyi çözmek içinse 2 seçeneğini kullanabilirsiniz.
 
-  Örnek Kullanımlar
+  #### Örnek Kullanımlar
   
 
   Örnek-1)Bir veriyi base64 ile kodlamak
